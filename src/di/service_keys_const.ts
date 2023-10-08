@@ -1,0 +1,4 @@
+export const SERVICE_KEY = {
+    PHOTO_SERVICE:Symbol.for("PHOTO_SERVICE"),
+    PHOTO_REPOSITORY: Symbol.for("PHOTO_REPOSITORY")
+}
